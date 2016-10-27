@@ -54,7 +54,7 @@ public class Methods2{
    public static void main(String[] args){
    System.out.println(stringReverse("Nate"));
    System.out.println(addEmUp(0,5,100));
-   System.out.println(loopNums(0,5));
+   loopNums(0,5);
    
    }
 
